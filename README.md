@@ -1,1 +1,1 @@
-dixit game
+dixit-imagio
