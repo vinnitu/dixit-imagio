@@ -1,0 +1,19 @@
+{
+  "name": "dixit-imagio",
+  "version": "1.0.0",
+  "description": "dixit game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://vinnitu:Z%m+\\\"zk<<]k6ytG9@github.com/vinnitu/dixit-imagio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
